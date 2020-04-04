@@ -1,4 +1,4 @@
-<html lang="en">
+<html>
 <head>
 <title>Benedicta Christina</title>
 <meta charset="utf-8">
